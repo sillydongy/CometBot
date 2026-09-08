@@ -1,1 +1,1 @@
-Privacy
+CometBot never reads nor stores information from users who interact with the bot, nor will it ever need access to such information. It will indiscriminately respond to any command regardless of the user issuing the command. 
